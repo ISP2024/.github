@@ -1,4 +1,4 @@
-# ISP 2024
-Individual Software Process at Kasetsart University.
+Course schedule and assignments are on Google Classroom.
 
-A course in the Software & Knowledge Engineering program at KU.
+Collection of course-related material on [github.io site](https://cpske.github.io/ISP/topics.html).
+- Please ignore the assignments page on this site. Use Google Classroom for assignments.
